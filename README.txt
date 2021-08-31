@@ -24,12 +24,12 @@ Make sure that you've set everything up correctly before powering it up. Here ar
 #3 Set the winding arm to it's starting position. DON'T force the arm! Gently pull the belt and turn the pulleys near the end for presicion.
    Make sure that the arm and the jaws of the chuck doesn't touch each other. Test every jaw by turning the chuck by hand.
 
-#4 Mark the pipe at the winder arm's slick, turn the pipe and make a hole with a hot needle at the marked point.
+#4 Mark the pipe at the winder arm's slit, turn the pipe and make a hole with a hot needle at the marked point.
 
 #5 Place the spool holder on the extrusion at the back. Center it according to the pipe. DON'T put a heavy spool on the holder, it may cause the machine to jam.
    Around 200 grams should be good.
 
-#6 Get the wire through the hole at the bottom of the winder arm, through the slick and the hole on the pipe. Tighten the wire by winding the spool.
-   Then, wind a 1/4 turn on the pipe by turning the chuck. Fix the wire in the hole on the pipe with a little super glue.
+#6 Get the wire through the hole at the bottom of the winder arm, through the slit and the hole on the pipe. Tighten the wire by winding the spool.
+   Then, wind a 1/4 turn on the pipe by turning the chuck. Fix the wire in the hole on the pipe with a little bit of super glue.
 
 #7 Double-check the previous steps.
